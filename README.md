@@ -1,6 +1,11 @@
 # XML-JavaRarser
 An XML file of cities consisting of 2,000,000 lines is given. The program allows you to process and output sorted information in accordance with the three tasks below.
 
+Link to the XML file: https://drive.google.com/file/d/11z6ih0jvI6QkadLBG6TsFt7_oWyxQBxy/view?usp=sharing
+~215MB
+
+To use another XML file, you will need to change the structure of the Root and Item classes according to the content of your XML file
+
 After launching, the application waits for entering the path to the directory file or the "Exit" command to shut down. 
 
 After entering the path to the directory file, the application generates summary statistics:
